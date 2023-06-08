@@ -120,7 +120,7 @@
  #### Research:
   - Understand audience and learn about their background, demographics, motivations, pain points,emotion and life goals.
 
- #### Wireframs:
+ #### Wiref rams:
   - An outline or a sketch of a product or a screen.
 
  #### Prototype: 
@@ -221,8 +221,13 @@ ___
     Define is using the insights for brainstorm stage and starting to narrow the focus.
 
 3. Design:
+
     Implementing new insights into new designs using various tools.
 
 4. Test:
+
     Evaluating the product design based on the feedback of potential users.
 
+5. Launch:
+
+    Sharing a finished version of product to public.
