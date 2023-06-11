@@ -51,8 +51,8 @@ if any of the following question gets a "Yes" then it is better to go with sprin
 1. Challenge scope wide enough?
 
 
-
 - Plan design sprint:
+
   - user research
   - call in the experts
   - find the right space 
@@ -60,3 +60,49 @@ if any of the following question gets a "Yes" then it is better to go with sprin
   - establish sprint rule 
   - plan interdiction
   - post-sprint planning   
+
+
+- Sprint brief:
+  
+   A document that you share with all your attendees the help them prepare for sprint.
+    
+    - topics that should be included in your sprint brief:
+
+    1. sprint challenges
+
+        example:
+
+        building new features for the cycling app in time for relaunch later in this year.
+
+    1. key deliverables 
+        example:
+
+        a complete prototype that includes the feature updates.
+
+    1. logistics
+        example:
+
+        - where?
+        - when?
+        - who?
+        - sprint leader: someone who sends the sprint brief to team.
+    1. approvers
+    1. resources
+    1. project overview:
+         - current state fo project
+         - roadblocks
+         - early wins,if any
+         - estimated launch plan
+    
+    1. sprint schedule:
+        example: five days planing
+
+ - Retrospective:
+   A collaborative critique of the team design sprint.
+
+   - Key question in retrospective:
+    -  what went well?
+    - what can be improved?
+
+
+    
