@@ -4,9 +4,43 @@ Is the ability to understand someone else's feelings and thoughts in a situation
 
 - UX design is not about solving problems we assume we user want to solve.It is about solving problems that user actually need and want to solve.
 
+> Empathy vs. sympathy
+
+Empathy is sometimes confused with sympathy, but the two terms don’t mean the same thing. 
+- Empathy means understanding someone’s feelings or thoughts, often by feeling the emotions yourself. 
+- Sympathy is the experience of showing concern or compassion without feeling the emotions themselves.
+
+> How to empathize with user:
+ 
+ - Ask lots of of questions
+     - ask questions that begins with what,how, and why to gain deeper understanding of what user perspective.
+
+- Become more observant:
+    - take detailed notes or even record your session.
+- Be an active listener
+     - be fully concentrate on user 
+     - understand and remember his words
+     - avoid distractions
+     - avoid thinking where the conversation will go and what will be the next question just concentrate on user
+
+- Request input
+    - it must be objective and unbiased
+    - not from friends or colleague because they want to please you and will give you always positive feedbacks
+    - ask from variety
+- Have an open mind
+    - your goal is to understand the user not to complicate the their feedback with your emotions and feelings
+
+- Keep current on UX research 
+    - always read and stay update
+
+
+
+
+
+
+
 
 > Recruiting interview participants
-
 #### Screener Survey:
  
 A detailed list of questions that helps researchers determine if potential participant meets the requirements of the research study.
