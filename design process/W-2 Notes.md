@@ -87,3 +87,78 @@ A detailed list of questions that helps researchers determine if potential parti
 
     -  send email reminders a week before or a night before interview 
 
+> Preparing for the interview
+
+- script interview information
+- collect supplies
+- research the users
+- practice 
+
+> Steps for conducting user interview
+
+1. Meet the participants
+    - build a good report 
+    - thank the participant for coming 
+    - review logical details
+    - gather basic details
+    - let the participant know there are not right or wrong answers
+2. Conduct the interview
+    - follow the interview etiquette/manners
+3. Take notes
+    - highlight compelling quotes
+    - document observation about participants 
+    - consider recording interview
+4. Wrap up the interview
+    - give user a chance to share any final thoughts
+    - always thank the participant for their time again 
+
+> Empathy map
+
+  An easily understood chart that explains everything designers learned about a type of user.
+
+  - Empathy map contains:
+    - what user:
+        - says
+        - thinks 
+        - does / when or in which event of time they are using the product
+        - feels
+        
+        about the product.
+ - There are two types of User Empathy map
+    1. one user empathy map
+        - where you record feedbacks form single user.
+
+    2. aggregated user empathy map
+        - where you consolidate feedback form a group of users
+        - represents a visualization of everything designer know about entire user segments or group of similar people. 
+
+> Pain Points
+
+ - Are any UX issue that frustrates the user and  blocks the user form getting  what they need.
+
+ #### Types of user pain points:
+
+- financial
+    - pay wall
+- products
+    - quality issues
+- process
+    - stopping use to get from point A to point B
+- support
+     - if user did not find the answer to their questions 
+     - customer services problems
+
+> Personas
+
+fictional users whose goals and characteristics represents the needs of a larger group of users.
+
+- it can identify user behaviors patterns
+
+#### User group 
+is set of people who have similar interests, goals or concern.
+
+#### Benefits of personas
+
+    - build empathy
+    - tell stories
+    - stress test design
