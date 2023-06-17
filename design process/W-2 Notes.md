@@ -158,7 +158,6 @@ fictional users whose goals and characteristics represents the needs of a larger
 is set of people who have similar interests, goals or concern.
 
 #### Benefits of personas
-
-    - build empathy
-    - tell stories
-    - stress test design
+- build empathy
+- tell stories
+- stress test design
