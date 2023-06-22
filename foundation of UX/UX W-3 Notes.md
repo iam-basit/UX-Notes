@@ -2,13 +2,13 @@
 
 A time bound process with five phases typically spread over five full 8 days where designers tackle designing problems.
 
-1. understand
+1. understand / empathize
 2. ideate
 3. decide
 4. prototype
 5. test
 
--  - Phase 1: Understand
+-  - Phase 1: Understand/Empathize
 
 In the Understand phase, you will create a shared knowledge base across all participants. Using the Lightning Talk method, knowledge experts across the business are invited to articulate the problem space from business, user, competitor, and technological angles.
 
