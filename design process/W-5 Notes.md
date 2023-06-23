@@ -62,3 +62,21 @@ The process of generating a broad set of ideas in a given topic, with no attempt
      - analyze findings
      - summarize finding in a report
      
+
+> How Might We
+
+Is another way of ideation precess.
+
+- "How" - Explore a bunch of ideas. It means we do note have answer yet.
+
+- "Might" - Our ideas are possible solution,not the only solution.
+
+- "We" - Collaborative effort.
+
+
+Ways to create How Might We phrases:
+ 
+ - Amp up the good
+ - Explore the opposite
+ - Change a status quo
+ - Break the point-of-view into pieces
