@@ -80,3 +80,7 @@ Ways to create How Might We phrases:
  - Explore the opposite
  - Change a status quo
  - Break the point-of-view into pieces
+
+ > Crazy eight sketching
+
+ Making a draft sketch of eight ideas in eight minutes.
