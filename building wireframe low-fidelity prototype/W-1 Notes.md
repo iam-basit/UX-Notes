@@ -54,6 +54,9 @@ Two types of fidelity
 - Low fidelity : called lo-fi for short
     - Lower amount of complexity
     - Less refined or polished
+    - Get ideas quickly
+    - Uses shapes and lines
+    - 
 
 - High fidelity: called hi-fi for short
     - Closely matches look and feel of the final product
