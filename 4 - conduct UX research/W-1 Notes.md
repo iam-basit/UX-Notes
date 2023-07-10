@@ -29,6 +29,18 @@ People who are involved in the project or who will be impacted by its result.
 ___
 > Elements of a UX research plan
 
+1. Project Background
+2. Research Goal
+3. Research Questions
+4. Key Performance Indicators (KPIs)
+5. Methodology 
+6. Participants
+7. Script.
+
+
+> Elements of a UX research plan in detail
+
+
 1. Project Background : 
     - what let you to conduct this research or why you are creating this product ?
     - importance of project background 
@@ -43,7 +55,7 @@ ___
 
 
 
-1. Research Goal
+2. Research Goal
  - what design problems you want to solve ?
 - how the result of the research impact the our design decision ?
 
@@ -57,7 +69,7 @@ ___
         - understand if the product is working as expected
 
 
-1. Research Questions
+3. Research Questions
 - How long it takes for the user to find the needs in the app/product ? 
 - what can we learn form the user flow, or the steps that user takes to book dog walker in the app?
 
@@ -71,7 +83,7 @@ ___
         - Qualitative research:
                 - Focusing on observation of how and why things happen 
 
-1. Key Performance Indicators (KPIs)
+4. Key Performance Indicators (KPIs)
 
 Are critical measures of progress towards an end-goal.
 - Percentage of users who booked dog walkers 
@@ -84,7 +96,7 @@ Are critical measures of progress towards an end-goal.
 
     The number of people who uses website navigating compared to the people who use search functionality.
 
-    - User error rates
+    - User error rates 
 
     Indicates the parts a design that cause the user the make errors
 
@@ -100,7 +112,7 @@ Are critical measures of progress towards an end-goal.
 
     A questionnaire to measure the usability of your product design 
 
-1. Methodology 
+5. Methodology 
     
     The step where we document the essential take to conduct the research.
 
@@ -112,13 +124,59 @@ Are critical measures of progress towards an end-goal.
         - use a spreadsheet and identify the trends
 
 
-1. Participants
+6. Participants
     - who will you survey
     - what are the characteristics
+    - characteristics 
+    - screen survey
+    - incentive 
+    - diversion perspectives and abilities
 
-1. Script
+7. Script
     - script the question you ask the participants
     - the script is also known as discussion guid 
 
+- Tips for writing a usability script:
+    - use the same set of questions for each interview
+    - ask open-ended question
+    - encourage elaboration
+    - ask them same question form different angels
+    - do not mention other user 
+    - do not ask leading questions 
+
 ---
+> Importance of user data keeping private
+
+- it is the right thing to do
+- privacy laws and ethics
+- risk of hacking 
+- protecting your company's brand 
+
+
+There are two types of data we need to protect 
+
+ 1. Personal Identifiable Information (PII)
+
+ Specific details that could be used to identify a use.
+
+ example: 
+
+Name,Phone number, Home address, Email address.
+
+1. Sensitive Personal Identifiable Information (SPII)
+
+A type of data that if lost or compromised or stolen could cause your user financial harm, embarrassment or discrimination.
+
+examples: 
+    - Social security number 
+    - Driver license
+    - Passport number 
+    - Date of barth 
+    - Race 
+    - Financial account number 
+    - Disability status
+    - Gender 
+    - Sexuality
+    - Criminal history
+    - Medical information
 
