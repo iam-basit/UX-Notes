@@ -163,7 +163,7 @@ There are two types of data we need to protect
 
 Name,Phone number, Home address, Email address.
 
-1. Sensitive Personal Identifiable Information (SPII)
+2. Sensitive Personal Identifiable Information (SPII)
 
 A type of data that if lost or compromised or stolen could cause your user financial harm, embarrassment or discrimination.
 
