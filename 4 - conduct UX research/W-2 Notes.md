@@ -77,3 +77,5 @@ The tendency for people to answer question in a way that will be viewed favorabl
  - lets you summarize a participant experience study
  - it highlights compelling quotes to include in your research report 
  
+
+  Some parts are left...!
