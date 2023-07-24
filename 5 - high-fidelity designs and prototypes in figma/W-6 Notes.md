@@ -48,6 +48,7 @@ Participants test out the prototypes without human guidance.
 
 Observation about people that help you to understand the user or their need form new perspective.
 
+
 > Case study
  
  A case study is an in-depth, detailed examination of a particular case within a real-world context
