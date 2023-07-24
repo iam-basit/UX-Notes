@@ -1,1 +1,1 @@
-UX online course note.
+UX / UI online course note.
